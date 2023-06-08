@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cwchar>
 
-#include "SQLite3.hpp"
+#include "CppSQLite3.hpp"
 
 int main(){
   SQLite3 db( "mydb.db" );
